@@ -1,0 +1,46 @@
+[
+  {
+    "_id": 1,
+    "Name": "Somu",
+    "Payment": {
+      "Total": 600
+    },
+    "Transaction": {
+      "Price": 400
+    },
+    "Date": "2024-03-01"
+  },
+  {
+    "_id": 2,
+    "Name": "Alice",
+    "Payment": {
+      "Total": 800
+    },
+    "Transaction": {
+      "Price": 350
+    },
+    "Date": "2024-03-02"
+  },
+  {
+    "_id": 3,
+    "Name": "Bob",
+    "Payment": {
+      "Total": 200
+    },
+    "Transaction": {
+      "Price": 200
+    },
+    "Date": "2024-03-03"
+  },
+  {
+    "_id": 4,
+    "Name": "Charlie",
+    "Payment": {
+      "Total": 600
+    },
+    "Transaction": {
+      "Price": 550
+    },
+    "Date": "2024-03-04"
+  }
+]
