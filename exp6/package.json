@@ -1,0 +1,17 @@
+{
+  "name": "exp6",
+  "version": "1.0.0",
+  "description": "**Develop the application which takes name and email data from HTML form index. html after submission and sends the data in the form of object from client side to Node.js server using Ajax.**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

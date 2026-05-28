@@ -1,0 +1,9 @@
+{
+  "name": "exp7",
+  "version": "1.0.0",
+  "main": "auth7.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

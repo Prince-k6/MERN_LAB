@@ -1,0 +1,9 @@
+{
+  "name": "exp8",
+  "version": "1.0.0",
+  "main": "route.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
