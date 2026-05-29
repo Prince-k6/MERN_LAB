@@ -10,7 +10,8 @@
 
 2. **Scaffold React App using Vite (done):**
    ```bash
-   npx create-vite search-app --template react
+   npx create-vite search-app --template react or
+   npx create-react-app search-app
    ```
 
 3. **Navigate to search-app and Install Dependencies (done):**
@@ -18,8 +19,9 @@
    cd search-app
    npm install
    ```
-
+ 
 4. **Verify the Source Files:**
+   * logic is in App.js
    * The styling is defined in [src/App.css](file:///Users/princekumar/Desktop/MERN-LAB/exp9/search-app/src/App.css) and [src/index.css](file:///Users/princekumar/Desktop/MERN-LAB/exp9/search-app/src/index.css).
    * The React components logic is in [src/App.jsx](file:///Users/princekumar/Desktop/MERN-LAB/exp9/search-app/src/App.jsx).
 
